@@ -1,4 +1,4 @@
 Group:
-Jayrhon Bayla
-Dave Sangalang
-Angel Camino
+Ferreras,Arthur
+Aspe,Lego
+Ryan,Tabios
